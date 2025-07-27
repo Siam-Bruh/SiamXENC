@@ -24,7 +24,7 @@ git clone https://github.com/Siam-Bruh/SiamXENC.git
 cd SiamXENC
 ```
 ```
-python siamxenc.py
+python siamxenc_enc.py
 ```
 
 ---
