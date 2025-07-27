@@ -62,30 +62,19 @@ All encoded files are saved in the same directory with `.enc` extension.
 
 ---
 
-## 👤 Owner Information
+## 👑 Owner Credit
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://facebook.com/SiamBhau69" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="40" alt="Facebook"/>
-        <br/>Facebook
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://t.me/SiamBhau" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" alt="Telegram"/>
-        <br/>Telegram
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:smd440046@gmail.com" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
-        <br/>Email
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://facebook.com/SiamBhau69" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://t.me/SiamBhau" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:smd440046@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
